@@ -8,9 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kbs0830&color=00d4ff&style=flat-square&label=profile+views" alt="profile views" />
-
-<br/><br/>
+<br/>
 
 </div>
 
@@ -106,25 +104,37 @@ profile = {
 
 ---
 
-### `> git log --stat`
+### `> stats --dashboard`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kbs0830&show_icons=true&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&hide_border=false&count_private=true&include_all_commits=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbs0830&layout=compact&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=7" height="165" />
+<!-- Visitors Count -->
+<img src="https://komarev.com/ghpvc/?username=kbs0830&color=00d4ff&style=for-the-badge&label=VISITORS" alt="visitors" />
 
 <br/><br/>
 
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=kbs0830&theme=darkhub&no-frame=true&column=6&margin-w=8" />
+
+<br/><br/>
+
+<!-- Profile Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=kbs0830&show_icons=true&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&hide_border=false&count_private=true&include_all_commits=true" height="170" />
+
+<br/><br/>
+
+<!-- Top Skills / Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbs0830&layout=donut&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=8" height="200" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=kbs0830&theme=dark&background=0d1117&border=21262d&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbs0830&bg_color=0d1117&color=00d4ff&line=7b2fff&point=00d4ff&area=true&area_color=0d2137&hide_border=true" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kbs0830&theme=darkhub&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
