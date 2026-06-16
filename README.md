@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1b2a,100:1a1a3e&height=200&section=header&text=%2F%2F%20dev%20null&fontSize=52&fontColor=00d4ff&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1b2a,100:1a1a3e&height=200&section=header&text=%2F%2F%20kbs0830&fontSize=58&fontColor=00d4ff&fontAlignY=42&animation=fadeIn" width="100%" />
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=5B8FBF&center=true&vCenter=true&repeat=true&width=520&lines=building+things+quietly;Computer+Vision+%7C+LLM+Integration;Python+%7C+Next.js+%7C+YOLOv8+%7C+LabVIEW;Full-Stack+%7C+Embedded+%7C+Automation" alt="Typing Animation" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kbs0830&color=00d4ff&style=flat-square&label=profile+views" alt="profile views" />
 
 <br/><br/>
 
@@ -16,6 +20,7 @@
 
 ```python
 profile = {
+    "handle"   : "@kbs0830",
     "focus"    : ["Computer Vision", "LLM Integration", "Full-Stack Web"],
     "interests": ["Embedded Systems", "Automation", "Data Engineering"],
 }
@@ -92,6 +97,14 @@ profile = {
 
 <img src="https://streak-stats.demolab.com?user=kbs0830&theme=dark&background=0d1117&border=21262d&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kbs0830&bg_color=0d1117&color=00d4ff&line=7b2fff&point=00d4ff&area=true&area_color=0d2137&hide_border=true" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kbs0830&theme=darkhub&no-frame=true&column=6&margin-w=8" />
+
 </div>
 
 <br/>
@@ -114,6 +127,12 @@ profile = {
 ---
 
 <div align="center">
+
+<a href="https://github.com/kbs0830">
+  <img src="https://img.shields.io/badge/GitHub-@kbs0830-21262d?style=flat-square&logo=github&logoColor=00d4ff" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,60:0d1b2a,100:0a0e1a&height=120&section=footer&animation=fadeIn" width="100%" />
 
