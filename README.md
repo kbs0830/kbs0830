@@ -36,8 +36,9 @@ profile = {
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv&theme=dark" />
 &nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=00d4ff" alt="Pandas" />
 <img src="https://img.shields.io/badge/YOLOv8-00d4ff?style=flat-square&logoColor=black" alt="YOLOv8" />
 <img src="https://img.shields.io/badge/ONNX-00d4ff?style=flat-square&logo=onnx&logoColor=black" alt="ONNX" />
 <img src="https://img.shields.io/badge/Gemini_AI-00d4ff?style=flat-square&logo=google&logoColor=black" alt="Gemini" />
@@ -46,25 +47,45 @@ profile = {
 
 **後端 · Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,php,docker&theme=dark" />
+
+<br/><br/>
+
+**資料庫 · Database**
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" />
 
 <br/><br/>
 
 **前端 · Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,threejs&theme=dark" />
 
 <br/><br/>
 
 **嵌入式 · Embedded & Automation**
 
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,qt&theme=dark" />
+&nbsp;
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logoColor=black" alt="LabVIEW" />
+
+<br/><br/>
+
+**雲端 · Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+
+<br/><br/>
+
+**語言 · Other Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cs,flutter&theme=dark" />
 
 <br/><br/>
 
 **開発環境 · Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,windows&theme=dark" />
 
 </div>
 
