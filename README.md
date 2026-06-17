@@ -16,10 +16,10 @@
 
 ```python
 我 = {
-    "帳號"   : "@kbs0830",
-    "專注"   : ["電腦視覺", "LLM 整合", "全端開發"],
-    "接觸過" : ["嵌入式系統", "雲端服務", "行動應用", "資料工程"],
-    "備註"   : "廣泛探索中，AI / 視覺是目前鑽研最深的方向",
+    "handle"   : "@kbs0830",
+    "focus"    : ["Computer Vision", "LLM Integration", "Full-Stack Web"],
+    "explored" : ["Embedded Systems", "Cloud", "Mobile", "Data Engineering"],
+    "note"     : "broad exposure, still learning — AI / Vision is the deepest",
 }
 ```
 
