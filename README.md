@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1b2a,100:1a1a3e&height=200&section=header&text=%2F%2F%20kbs0830&fontSize=58&fontColor=00d4ff&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1b2a,100:1a1a3e&height=220&section=header&text=%40kbs0830&fontSize=62&fontColor=00d4ff&fontAlignY=40&desc=Computer%20Vision%20%C2%B7%20LLM%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&descColor=4a7fa8&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=5B8FBF&center=true&vCenter=true&repeat=true&width=520&lines=building+things+quietly;Computer+Vision+%7C+LLM+Integration;Python+%7C+Next.js+%7C+YOLOv8+%7C+LabVIEW;Full-Stack+%7C+Embedded+%7C+Automation" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=540&lines=%24+whoami+%E2%86%92+%40kbs0830;building+things+quietly...;Computer+Vision+%7C+LLM+Integration;Python+%7C+Next.js+%7C+YOLOv8+%7C+LabVIEW;still+learning%2C+still+shipping" alt="Typing Animation" />
 
 <br/><br/>
 
