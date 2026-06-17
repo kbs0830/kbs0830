@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1b2a,100:1a1a3e&height=220&section=header&text=%40kbs0830&fontSize=62&fontColor=00d4ff&fontAlignY=40&desc=Computer%20Vision%20%C2%B7%20LLM%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60&descColor=4a7fa8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1b2a,100:1a1a3e&height=220&section=header&text=kbs0830%40github%3A~%24&fontSize=46&fontColor=00d4ff&fontAlignY=40&desc=%E2%96%88%20Computer%20Vision%20%C2%B7%20LLM%20%C2%B7%20Full-Stack&descSize=17&descAlignY=62&descColor=4a7fa8&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=540&lines=%24+whoami+%E2%86%92+%40kbs0830;building+things+quietly...;Computer+Vision+%7C+LLM+Integration;Python+%7C+Next.js+%7C+YOLOv8+%7C+LabVIEW;still+learning%2C+still+shipping" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&lines=%24+whoami+%E2%86%92+%40kbs0830;%24+cat+focus.txt+%E2%86%92+%E9%9B%BB%E8%85%A6%E8%A6%96%E8%A6%BA+%7C+LLM+%7C+%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC;%24+ls+skills%2F+%E2%86%92+Python+Next.js+YOLOv8+LabVIEW;%24+git+log+--oneline+%E2%86%92+still+learning%2C+still+shipping;%24+_%E2%96%8C" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -12,15 +12,16 @@
 
 ---
 
-### `> whoami`
+### `kbs0830@github:~$ cat profile.txt`
 
-```python
-我 = {
-    "handle"   : "@kbs0830",
-    "focus"    : ["電腦視覺", "LLM 整合", "全端開發"],
-    "explored" : ["嵌入式系統", "雲端服務", "行動應用", "資料工程"],
-    "note"     : "broad exposure, still learning — AI / Vision is the deepest",
-}
+```bash
+  handle    →  @kbs0830
+  focus     →  電腦視覺 · LLM 整合 · 全端開發
+  explored  →  嵌入式系統 · 雲端服務 · 行動應用 · 資料工程
+  note      →  broad exposure, still learning
+               AI / Vision is the deepest so far
+
+kbs0830@github:~$ █
 ```
 
 <br/>
