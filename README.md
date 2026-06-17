@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=5B8FBF&center=true&vCenter=true&repeat=true&width=520&lines=building+things+quietly;Computer+Vision+%7C+LLM+Integration;Python+%7C+Next.js+%7C+YOLOv8+%7C+LabVIEW;Full-Stack+%7C+Embedded+%7C+Automation" alt="Typing Animation" />
 
-<br/>
-
-<br/>
+<br/><br/>
 
 </div>
 
@@ -17,11 +15,11 @@
 ### `> whoami`
 
 ```python
-profile = {
-    "handle"   : "@kbs0830",
-    "focus"    : ["Computer Vision", "LLM Integration", "Full-Stack Web"],
-    "explored" : ["Embedded", "Cloud", "Mobile", "Data Engineering"],
-    "note"     : "broad exposure, still learning — AI/Vision is the deepest",
+我 = {
+    "帳號"   : "@kbs0830",
+    "專注"   : ["電腦視覺", "LLM 整合", "全端開發"],
+    "接觸過" : ["嵌入式系統", "雲端服務", "行動應用", "資料工程"],
+    "備註"   : "廣泛探索中，AI / 視覺是目前鑽研最深的方向",
 }
 ```
 
@@ -90,9 +88,9 @@ profile = {
 
 **AI 助手 · AI Assistants**
 
-<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
 
 </div>
 
@@ -127,13 +125,10 @@ profile = {
 
 <br/><br/>
 
-<!-- Profile Stats Card -->
+<!-- Profile Stats Card + Top Skills 並排 -->
 <img src="https://github-readme-stats.vercel.app/api?username=kbs0830&show_icons=true&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&hide_border=false&count_private=true&include_all_commits=true" height="170" />
-
-<br/><br/>
-
-<!-- Top Skills / Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbs0830&layout=donut&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=8" height="200" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbs0830&layout=compact&bg_color=0d1117&border_color=21262d&title_color=00d4ff&text_color=8b949e&icon_color=7b2fff&langs_count=8" height="170" />
 
 <br/><br/>
 
