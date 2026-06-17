@@ -20,7 +20,8 @@
 profile = {
     "handle"   : "@kbs0830",
     "focus"    : ["Computer Vision", "LLM Integration", "Full-Stack Web"],
-    "interests": ["Embedded Systems", "Automation", "Data Engineering"],
+    "explored" : ["Embedded", "Cloud", "Mobile", "Data Engineering"],
+    "note"     : "broad exposure, still learning — AI/Vision is the deepest",
 }
 ```
 
@@ -84,6 +85,14 @@ profile = {
 **開発環境 · Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,windows&theme=dark" />
+
+<br/><br/>
+
+**AI 助手 · AI Assistants**
+
+<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 
 </div>
 
