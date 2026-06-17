@@ -17,8 +17,8 @@
 ```python
 我 = {
     "handle"   : "@kbs0830",
-    "focus"    : ["Computer Vision", "LLM Integration", "Full-Stack Web"],
-    "explored" : ["Embedded Systems", "Cloud", "Mobile", "Data Engineering"],
+    "focus"    : ["電腦視覺", "LLM 整合", "全端開發"],
+    "explored" : ["嵌入式系統", "雲端服務", "行動應用", "資料工程"],
     "note"     : "broad exposure, still learning — AI / Vision is the deepest",
 }
 ```
